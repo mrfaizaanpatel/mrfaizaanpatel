@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mrfaizaanpatel
+- 🍼 DOB- 4th September 2002
+- ⚡ I reside in Andheri East,Mumbai
+- 📗 Completed Bachelor of Science in Information Technology from University of Mumbai
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Full Stack development with Java from IT Vedant Institute
-- 📫 How to reach me 7208677730
-- ⚡ I reside in Andheri,Mumbai
-
+- 📫 How to reach me 7208677730, mail: faizaanpatel886@gmail.com
